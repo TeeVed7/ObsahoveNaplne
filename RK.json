@@ -1,0 +1,337 @@
+{
+  "Radcovský kurz": {
+    "general_competencies": [
+        {
+          "name": "Súhlasí s myšlienkovými základmi skautingu",
+          "evaluation": "odporúčanie tímu"
+        },
+        {
+          "name": "Správa sa priateľsky a empaticky",
+          "evaluation": "odporúčanie tímu"
+        },
+        {
+          "name": "Vie sa hrať a dokáže byť rovnocenným partnerom v hre",
+          "evaluation": "odporúčanie tímu"
+        },
+        {
+          "name": "Dokáže viesť družinu",
+          "evaluation": "radcovská činnosť"
+        },
+        {
+          "name": "Pozná schopnosti, zručnosti a zázemie detí zo svojej družiny a v spolupráci s lídrom/vodcom dokáže na základe toho prispôsobiť svoje vystupovanie a program",
+          "evaluation": "radcovská činnosť"
+        },
+        {
+          "name": "Buduje fungujúce vzťahy v družine",
+          "evaluation": "odporúčanie tímu"
+        },
+        {
+          "name": "Ovláda prvú pomoc min. v rozsahu odborky Prvá pomoc, zelený stupeň",
+          "evaluation": "certifikát/odborka"
+        }
+        ],
+    "lectures": [
+        {
+        "topic": "Osobnosť radcu a jeho životný štýl",
+        "duration": 60,
+        "learning_goals": [
+            "Poslanie radcu, jeho významná rola družine a v oddiele",
+            "Kompetencie a oprávnenia funkcie radca",
+            "Radca ako vzor, ale i autorita (nezneužívanie moci); ideálny radca",
+            "Prezentácia radcu na verejnosti (škola, ulica...), na sociálnych sieťach",
+            "Vytváranie osobného vzťahu s jednotlivcami a rešpektovanie ich individuality",
+            "Osobná motivácia, nabádanie k osobnému rozvoju a vzdelávaniu sa (voľné vzdelávacie kurzy, LRŠ, vzdelávacie moduly, programová ponuka pre rangerov) a vyrovnávanie sa s osobným zlyhaním",
+            "Životné zručnosti budované prostredníctvom radcovania"
+        ],
+        "evaluation": [
+        { 
+          "competency": "Rozumie postaveniu radcu, jeho úskaliam a výhodám", 
+          "form": ["odporúčanie tímu", "skúšky – modelová situácia"] 
+        }
+        ]
+        },
+        {
+        "topic": "Komunikácia s členom, rodičom a vodcom",
+        "duration": 60,
+        "learning_goals": [
+          "Základné komunikačné zručnosti a prejav",
+          "Komunikácia s členmi družiny, s rodičom, vodcom",
+          "Tee-Pee, spravovanie vlastného profilu, prístup a spravovanie členov družiny",
+          "Práca s citlivými údajmi",
+          "Šírenie informácií potrebných pre činnosť (výpravy, družinovky, tábory) vhodnými kanálmi (telefón, email, sociálne siete)"
+        ],
+        "evaluation": [
+          {
+            "competency": "Dokáže prispôsobiť komunikáciu prijímateľovi (členovia družiny, rodič, vodca) a situácii",
+            "form": ["skúšky – modelová situácia", "odporúčanie tímu"]
+          },
+          {
+            "competency": "Dokáže spravovať vlastný účet a účet svojej družiny v systéme Tee-Pee",
+            "form": ["odporúčanie tímu"]
+          }
+        ]
+      },
+      {
+        "topic": "Motivácia",
+        "duration": 60,
+        "learning_goals": [
+          "Druhy motivácie členov (vnútorná, vonkajšia/na základe potrieb členov družiny)",
+          "Prirodzený dôsledok konania vs. odmeny a tresty v družinovej praxi (výhody a nevýhody; rôzne typy odmien)",
+          "Bodovanie v družine",
+          "Ocenenia (Sedem ľalií, Skaut roka, vlastné ocenenia – nominovanie a udelenie ocenenia)",
+          "Práca so súťaživosťou (súperenie vs. kooperácia, prekonávanie samého seba)"
+        ],
+        "evaluation": [
+          {
+            "competency": "Rozlišuje a dokáže využívať rôzne spôsoby motivácie na základe situácie, resp. potreby detí",
+            "form": ["radcovská činnosť"]
+          },
+          {
+            "competency": "Pri využívaní odmien a trestov nezneužíva svoje postavenie",
+            "form": ["odporúčanie tímu"]
+          },
+          {
+            "competency": "Pri výchove dokáže pracovať s prirodzenými dôsledkami konania členov bez potreby trestov",
+            "form": ["skúšky – modelová situácia"]
+          }
+        ]
+      },
+      {
+        "topic": "Družina a jej duch",
+        "duration": 75,
+        "learning_goals": [
+          "Čo je to družinový duch, budovanie družinového ducha a družinovej identity",
+          "Piliere družiny (družina, radca, podpora oddielu)",
+          "Podmienky fungovania družiny (demokratický systém, samostatnosť družiny vzhľadom na vekovú kategóriu, zaangažovanie každého člena družiny, vekové rozpätie v družine a počet jej členov, spolupráca radcu a podradcu/spoluradcu)",
+          "Význam družinového systému, výhody, postavenie družiny v oddiele",
+          "Družina ako tím a výhody práce v malých tímoch",
+          "Spoločné zážitky a dobrodružstvo",
+          "Družinové funkcie, ich vhodné rozdelenie členom a výhody rozdelenia funkcií",
+          "Družinové insígnie, tradície, rituály (význam a príklady)",
+          "Družinová výbava (debna, kuchárska výbava, lekárnička + výbava jednotlivca)"
+        ],
+        "evaluation": [
+          {
+            "competency": "Rozumie významu budovania družinovej identity a družinového ducha a dokáže ju primeraným spôsobom budovať",
+            "form": ["skúšky – teoretická otázka"]
+          },
+          {
+            "competency": "Rozumie významu a fungovaniu družiny a dokáže v praxi využiť jej výhody",
+            "form": ["skúšky – teoretická otázka", "radcovská činnosť"]
+          }
+        ]
+      },
+      {
+        "topic": "Základy vývinovej psychológie",
+        "duration": 75,
+        "learning_goals": [
+          "Základná charakteristika vĺčat a včielok a program pre túto vekovú kategóriu",
+          "Základná charakteristika skautov a skautiek a program pre túto vekovú kategóriu",
+          "Potreby a záujmy dnešných detí (trávenie voľného času)",
+          "Prístup k deťom a ako s nimi pracovať; zvládanie náročných prejavov detí (hnev, plač, agresivita, hlučnosť, smiech...)",
+          "Neposlúchajúce deti, boj o moc/pozornosť"
+        ],
+        "evaluation": [
+          {
+            "competency": "Pozná základnú charakteristiku vlčiackej-včielkarskej a skautskej vekovej kategórie a dokáže tieto poznatky využiť v praxi",
+            "form": ["skúšky – teoretická otázka"]
+          },
+          {
+            "competency": "Vie, ako postupovať v špecifických prípadoch: boj detí o pozornosť/moc, zvládanie hnevu, plaču, agresivity, hlučnosti u detí",
+            "form": ["odporúčanie tímu"]
+          }
+        ]
+      },
+      {
+        "topic": "Deti so špeciálnymi výchovno-vzdelávacími potrebami",
+        "duration": 45,
+        "learning_goals": [
+          "Najčastejšie sa vyskytujúce diagnózy – ich charakteristika a prejavy (ADHD, dyslexia, dysgrafia, dyspraxia, aspergerov syndróm, nadpriemerná inteligencia...)",
+          "Inakosť (pozitíva, práca s inakosťou)",
+          "Tolerancia a vzájomný rešpekt",
+          "Hranice zvládnuteľnosti práce s deťmi so ŠVVP",
+          "Postup (overenie si predpokladov u rodičov, komunikácia s vodcom, požiadanie vodcu o pomoc...)"
+        ],
+        "evaluation": [
+          {
+            "competency": "S pomocou vodcu dokáže pracovať s deťmi so špeciálnymi výchovno-vzdelávacími potrebami a plnohodnotne ich zapájať do činnosti",
+            "form": ["skúšky – modelová situácia"]
+          }
+        ]
+      },
+      {
+        "topic": "Nováčik (nový člen družiny/príručka Nováčik)",
+        "duration": 60,
+        "learning_goals": [
+          "Vhodný postup a tipy pri začleňovaní nováčika (prvotná komunikácia so zákonnými zástupcami, vhodné zoznamovacie a tímové aktivity, začleňovací rituál do družiny, šatkovanie...)",
+          "Práca s knižkou Nováčik (jej význam, témy, využitie učenia sa činnosťou) s dôrazom na témy históriu skautingu, skautská symbolika, rovnošata a skautská prax",
+          "Nováčikovská skúška (príprava a realizácia, význam)"
+        ],
+        "evaluation": [
+          {
+            "competency": "Pozná knižku Nováčik a vie, ako s ňou pracovať",
+            "form": ["odporúčanie tímu"]
+          },
+          {
+            "competency": "Dokáže pripraviť a zrealizovať nováčikovskú skúšku atraktívnou formou",
+            "form": ["odporúčanie tímu"]
+          }
+        ]
+      },
+      {
+        "topic": "Tvorba aktivít",
+        "duration": 60,
+        "learning_goals": [
+          "Učenie sa činnosťou v programe",
+          "Povedomie o dramaturgii programu - leitmotív, libreto, symbolický rámec, krivky pozornosti (hodinová, 2-hodinová, 8-hodinová)",
+          "Tvorba aktivity podľa cieľovej skupiny (počet účastníkov, vek, prostredie, pomôcky, záľuby) a nastavenie cieľov",
+          "Šablóna na aktivity (popis aktivity, materiál, dĺžka, náročnosť, pravidlá...)",
+          "Rôzne inšpiračné zdroje a námety (knižné, internetové...) pre tvorbu aktivít",
+          "Druhy aktivít (vybrané typológie)"
+        ],
+        "evaluation": [
+          {
+            "competency": "Dokáže vhodne vybrať a zorganizovať aktivitu pre družinu",
+            "form": ["radcovská činnosť"]
+          },
+          {
+            "competency": "Vie, ako učiť činnosťou a ako to využiť v programe. Pozná klady učenia sa činnosťou",
+            "form": ["odporúčanie tímu", "radcovská činnosť"]
+          },
+          {
+            "competency": "Nadobudnuté vedomosti a zručnosti dokáže primeranými a rôznorodými spôsobmi naučiť deti v družine",
+            "form": ["radcovská činnosť"]
+          }
+        ]
+      },
+      {
+        "topic": "Družinovka",
+        "duration": 90,
+        "learning_goals": [
+          "Nastavenie cieľov - rozdiel medzi témou družinovky a jej cieľom",
+          "Štruktúra a harmonogram družinovky: rôzne spôsoby/nástroje/aplikácie uľahčujúce prípravu a sledovanie harmonogramu (bodový scenár, iné aplikácie...)",
+          "Plán, priebeh, vyhodnotenie družinovky",
+          "Netradičné družinovky",
+          "Pripravenosť a plánovanie družinoviek a akcií vs. improvizácia (výhody/nevýhody)"
+        ],
+        "evaluation": [
+          {
+            "competency": "Na základe potrieb členov vie naplánovať a zorganizovať družinovku (i netradičnú) s konkrétnym cieľom",
+            "form": ["radcovská činnosť"]
+          },
+          {
+            "competency": "Dokáže nadobudnuté vedomosti aplikovať do praxe pri tvorbe družinového programu pre družinu (plánovanie, realizácia a zhodnotenie družinovky)",
+            "form": ["radcovská činnosť"]
+          }
+        ]
+      },
+      {
+        "topic": "Celoročná činnosť družiny",
+        "duration": 60,
+        "learning_goals": [
+          "Význam dlhodobého plánovania činnosti družiny",
+          "Možnosti činnosti družiny cez rok vzhľadom na ročné obdobia, mesiace, stanovené ciele, možnosti a schopnosti členov",
+          "Výlety, výpravy a ich význam",
+          "Netradičné prvky a dobrodružstvo v programe",
+          "Alternatívny program pri rôznych situáciách (počasie, málo členov...)",
+          "Radcovský zápisník (obsah, význam, publikácia Radcovský zápisník)"
+        ],
+        "evaluation": [
+          {
+            "competency": "Dokáže naplánovať činnosť družiny aspoň na mesiac s ohľadom na členov, celoročnú činnosť oddielu a plnenie programových prvkov",
+            "form": ["radcovská činnosť"]
+          },
+          {
+            "competency": "V spolupráci so skúsenejším členom dokáže pripraviť družinový výlet a výpravu",
+            "form": ["radcovská činnosť"]
+          }
+        ]
+      },
+      {
+        "topic": "Bezpečnosť a krízové situácie",
+        "duration": 45,
+        "learning_goals": [
+          "Miera prípustného rizika",
+          "Zásady bezpečnosti pri aktivitách a pobyte vonku, v klubovni, pri práci a pri špecifických činnostiach (vodné aktivity, plávanie, jaskyniarstvo) a v krízových situáciách (búrka, zranenie, prejavy agresie, šikana/kyberšikana...)",
+          "Krízová komunikácia s kompetentnými osobami: záchranné zložky, prítomní členovia družiny, rodičia, oddielový vodca (základné zásady – ozrejmenie situácie, nahlásenie kompetentným)"
+        ],
+        "evaluation": [
+          {
+            "competency": "Pozná pravidlá bezpečnosti a riadi sa nimi",
+            "form": ["skúšky – modelová situácia"]
+          },
+          {
+            "competency": "Pozná postup, ako sa zachovať v prípade krízových situácií v družine",
+            "form": ["skúšky – modelová situácia"]
+          }
+        ]
+      },
+      {
+        "topic": "Skautský sľub a zákon, poslanie SLSK",
+        "duration": 45,
+        "learning_goals": [
+          "Poslanie skautingu a miesto radcu v ňom",
+          "Skautský sľub a zákon (znenie, význam pre jednotlivca)",
+          "Oboznamovanie družiny so skautským zákonom a sľubom"
+        ],
+        "evaluation": [
+          {
+            "competency": "Vie, ako cielene v rámci svojej činnosti môže napĺňať poslanie skautingu",
+            "form": ["skúšky – teoretická otázka"]
+          },
+          {
+            "competency": "Pozná spôsoby, ako priblížiť členom družiny význam sľubu a zákona",
+            "form": ["odporúčanie tímu"]
+          }
+        ]
+      },
+      {
+        "topic": "Duchovno v skautingu",
+        "duration": 45,
+        "learning_goals": [
+          "Duševné vs. duchovné",
+          "Význam duchovna v skautingu",
+          "Uchopenie duchovného rozmeru a práca s ním, prehlbovanie duchovného rozmeru v družine",
+          "Budovanie vzťahu k prírode a k ľudským výtvorom, prehlbovanie vnímania krásy a hodnôt s ohľadom na rozvoj členov družiny",
+          "Výchovné prvky v programovej ponuke SLSK zamerané na duchovný rozvoj (odborky, VPM, časti stupňov napredovania, sprevádzanie členov družiny Ľaliovým krížom)",
+          "Príklady a tvorba duchovných aktivít"
+        ],
+        "evaluation": [
+          {
+            "competency": "Rozumie významu duchovna v skautingu a vie, prečo je jeho rozvoj dôležitý",
+            "form": ["skúšky – teoretická otázka", "odporúčanie tímu"]
+          },
+          {
+            "competency": "Pozná spôsoby zapojenia duchovna do programu družiny",
+            "form": ["odporúčanie tímu"]
+          }
+        ]
+      },
+      {
+        "topic": "Výchovný program",
+        "duration": 45,
+        "learning_goals": [
+          "Programová ponuka SLSK pre vĺčatá a skautov (stupne napredovania, odborky, výzvy, voľné programové moduly, najvyššie programové ocenenia)",
+          "6 oblastí osobného rozvoja a ich uplatnenie a význam v programe",
+          "Praktické prispôsobovanie programu a programových prvkov vekovej kategórii",
+          "Globálne vzdelávanie v skautskom programe a jeho význam",
+          "Špecifiká vodnoskautského programu pre vĺčatá a skautov"
+        ],
+        "evaluation": [
+          {
+            "competency": "Pozná programovú ponuku SLSK pre vĺčatá a včielky, skautov a skautky a dokáže s ňou pracovať a podľa potreby ju prispôsobiť",
+            "form": ["skúšky – teoretická otázka", "radcovská činnosť"]
+          },
+          {
+            "competency": "Má základné povedomie o globálnom vzdelávaní",
+            "form": ["skúšky – teoretická otázka"]
+          },
+          {
+            "competency": "Rozumie 6 oblastiam osobného rozvoja a tieto poznatky dokáže využiť v praxi",
+            "form": ["skúšky – teoretická otázka"]
+          }
+        ]
+      }
+    ]
+  }
+}
