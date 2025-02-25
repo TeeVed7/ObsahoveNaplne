@@ -3,17 +3,50 @@
     {
       "stage": "Stage 1",
       "title": "01_RK",
-      
-    }
+      "age_group": "13-15 years",
+      "general_competencies": [
+        "Stotožňuje sa s princípmi, poslaním a výchovnou metódou.",
+        "Správa sa priateľsky a empaticky.",
+        "Vie sa hrať a dokáže byť rovnocenným partnerom v hre.",
+        "Dokáže viesť družinu.",
+        "Pozná schopnosti, zručnosti a zázemie detí zo svojej družiny a v spolupráci s lídrom/vodcom dokáže na základe toho prispôsobiť svoje vystupovanie a program.",
+        "Buduje fungujúce vzťahy v družine.",
+        "Ovláda prvú pomoc min. v rozsahu odborky Prvá pomoc, zelený stupeň."
+        ],
+      "challenges": null
+    },
+    {
+      "stage": "Stage 2",
+      "title": "02_LRS",
+      "age_group": "15-18 years",
+      "general_competencies": [
+        "Stotožňuje sa s princípmi, poslaním a výchovnou metódou.",
+        "Správa sa priateľsky a empaticky.",
+        "Dokáže sa zapojiť do aktivity.",
+        "Uvedomuje si svoje silné a slabé stránky, pracuje na svojom osobnom raste.",
+        "Vie prijať konštruktívnu kritiku.",
+        "Rešpektuje individualitu iných ľudí.",
+        "Dokáže byť aktívny a nápomocný pri činnosti oddielu.",
+        "Pozná členov svojho oddielu.",
+        "Ovláda prvú pomoc v min. rozsahu odborky Prvá pomoc, zelený stupeň."
+        ],
+      "challenges": null
+    },
+    {
+      "stage": "Stage 3",
+      "title": "03_VLS",
+      "age_group": "18-22 years",
+      "general_competencies": [
+        "Stotožňuje sa s princípmi, poslaním a výchovnou metódou a šíri ich vo svojom okolí.",
+        "Správa sa priateľsky a empaticky.",
+        "Dokáže sa zapojiť do aktivity a chápe jej význam a dôležitosť.",
+        "Vie aplikovať získané vedomosti a zručnosti zo skautskej činnosti v každodennom živote a naopak.",
+        "Dokáže budovať fungujúce vzťahy v oddiele, zbore a oblasti.",
+        "Rešpektuje individualitu iných ľudí.",
+        "Ovláda prvú pomoc min. v rozsahu 8-hodinového kurzu prvej pomoci."
+        ],
+      "challenges": null
+    } 
   ]
-  
-  
-    "age_group": "16-18 years",
-    "competencies": ["Critical Thinking", "Problem-Solving", "Independent Research"],
-    "learning_goals": [
-      "Develop decision-making skills",
-      "Improve time management",
-      "Engage in self-directed learning"
-    ],
-    "challenges": ["Lack of focus", "Time constraints", "Need for real-world applications"]
-  }
+
+}

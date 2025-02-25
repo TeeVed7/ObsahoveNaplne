@@ -1,0 +1,13 @@
+    {
+      "stage": "Stage 4 in progress",
+      "title": "04_GILS",
+      "age_group": "23-26 years",
+      "general_competencies": [
+        "Vystupuje ako zástupca skautského hnutia a vie sa vhodne vyjadriť k vybranej téme aktuálnej pre organizáciu alebo spoločnosť",
+        "Šíri myšlienky skautského hnutia a dokáže zhodnotiť napĺňanie pilierov v SLSK.",
+        "Svojou činnosťou aktívne prispieva k pozitívnemu rozvoju organizácie.",
+        "Rozumie a šíri povedomie o význame a hodnote dobrovoľníckej činnosti.",
+        "Dokáže pripraviť, viesť a vyhodnotiť inštruktorský projekt. Rozumie prínosu inštruktorských projektov pre oblastnú a národnú úroveň SLSK."
+        ],
+      "challenges": null
+    }  
