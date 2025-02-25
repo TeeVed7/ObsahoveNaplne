@@ -1,0 +1,638 @@
+{
+    "Líderská_Rangerská_Škola": {
+      "cinnost": [
+        {
+            "cinnost": [
+              {
+                "competency": [
+                    "Realizácia 3-dňového podujatia (2 osobodni) - podujatie má dopredu stanovený cieľ",
+                    "Vo formulári líderskej činnosti realizátor uvedie: maticu a bodový scenár podujatia",
+                    "Popíše prácu so symbolickým rámcom",
+                    "Konkrétne uvedie aj min. 2 aktivity, ktorých súčasťou bola reflexia",
+                    "Celkové hodnotenie akcie (hodnotí realizátor aj účastníci akcie)",
+                    "Podujatie bolo realizátorom riadne zabezpečené aj po administratívnej stránke (prezenčná listina, vykázanie podujatia prostredníctvom Tee-pee)"
+                  ]              
+                },
+              {
+                "competency": "- Plán jednodňového podujatia (výlet/výprava) v min. rozsahu 6 hodín - podujatie nemusí byť zrealizované, účastník v líderskej činnosti uvedie maticový a bodový scenár podujatia, popíše prácu so symbolickám rámcom a zapojenie prvku z výchovného programu."
+              },
+              {
+                "competency": "- Polročný plán činnosti oddielu s kalendárom akcií - pri príprave plánu budúci líder spolupracuje s oddielovou radou, resp. s vodcom oddielu. Polročný plán činnosti obsahuje cieľ oddielu na daný polrok."
+              }
+            ]
+          }
+      ],
+      "general_competencies": [
+        {
+          "name": "Stotožňuje sa s princípmi, poslaním a výchovnou metódou.",
+          "evaluation": "odporúčanie tímu"
+        },
+        {
+          "name": "Správa sa priateľsky a empaticky.",
+          "evaluation": "odporúčanie tímu"
+        },
+        {
+          "name": "Dokáže sa zapojiť do aktivity.",
+          "evaluation": "odporúčanie tímu"
+        },
+        {
+          "name": "Uvedomuje si svoje silné a slabé stránky, pracuje na svojom osobnom raste.",
+          "evaluation": "odporúčanie tímu"
+        },
+        {
+          "name": "Vie prijať konštruktívnu kritiku.",
+          "evaluation": "odporúčanie tímu"
+        },
+        {
+          "name": "Rešpektuje individualitu iných ľudí.",
+          "evaluation": "odporúčanie tímu"
+        },
+        {
+          "name": "Dokáže byť aktívny a nápomocný pri činnosti oddielu.",
+          "evaluation": "líderská činnosť"
+        },
+        {
+          "name": "Pozná členov svojho oddielu.",
+          "evaluation": "líderská činnosť"
+        },
+        {
+          "name": "Ovláda prvú pomoc v min. rozsahu odborky Prvá pomoc, zelený stupeň.",
+          "evaluation": "certifikát/odborka"
+        }
+      ],
+      "lectures": [
+        {
+            "topic": "Osobnosť lídra a jeho životný štýl",
+            "duration": 60,
+            "learning_goals": [
+              "Postavenie lídra v oddiele, jeho poslanie a povinnosti ako člena oddielovej rady, kompetencie a oprávnenia",
+              "Správanie sa podľa rangerského hesla „Veď príkladom“ (líder ako vzor); nezneužívanie autority",
+              "Možnosti činnosti a funkcií na oddielovej a zborovej úrovni - radca, organizátor, správca webu, technické zabezpečenie…",
+              "Možnosti jeho ďalšieho rozvoja, napredovania a vzdelávania"
+            ],
+            "evaluation": [
+              {
+                "competency": "Uvedomuje si dôležitú úlohu lídrov v oddiele, v zbore a v rôznych funkciách a pozná ich kompetencie a oprávnenia. Dokáže si z nich vybrať takú, v ktorej sa cíti komfortne",
+                "form": ["odporúčanie tímu", "skúšky - modelová situácia"]
+              },
+              {
+                "competency": "Rozumie významu vzdelávania a osobného napredovania",
+                "form": ["odporúčanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Komunikácia, skautské PR a informačné zdroje",
+            "duration": 60,
+            "learning_goals": [
+              "Zásady vhodnej komunikácie",
+              "Komunikácia v oddielovej rade, s členmi oddielu a s rodičmi",
+              "Skautské médiá: časopisy, Skautské zvesti, web a sociálne siete",
+              "Základné zásady spravovania udalostí a fanpage na sociálnej sieti",
+              "Skautské PR (tvorba plagátov, zásady komunikácie navonok, udalosť a fanpage na sociálnej sieti, propagačné materiály)"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže prispôsobiť komunikáciu jej prijímateľovi (členovia oddielu, oddielový/zborový vodca, rodič) a situácii",
+                "form": ["skúšky - modelová situácia", "skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Dokáže vytvoriť fungujúcu komunikačnú sieť na úrovni oddiel, družina, rodič. (plagát, sociálne siete, propagačné materiály...)",
+                "form": ["odporúčanie tímu"]
+              },
+              {
+                "competency": "Pozná skautské médiá a má prehľad, ktoré informácie v nich môže nájsť",
+                "form": ["skúšky - teoretická otázka"]
+              }
+            ]
+          },
+          {
+            "topic": "Motivácia",
+            "duration": 45,
+            "learning_goals": [
+              "Zásady, výhody a nevýhody používania odmien a trestov",
+              "Formy odmien a trestov",
+              "Prirodzený dôsledok, objektívny dôsledok vs. odmeny a tresty",
+              "Význam a formy oceňovania v skautingu (7 ľalií, Skaut roka, oddielové/zborové/oblastné oceňovanie...)"
+            ],
+            "evaluation": [
+              {
+                "competency": "Rozlišuje a dokáže využívať rôzne spôsoby motivácie na základe situácie, resp. potreby detí",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Pri využívaní odmien a trestov nezneužíva svoje postavenie",
+                "form": ["odporúčanie tímu"]
+              },
+              {
+                "competency": "Dokáže smerovať radcov ako pracovať pri výchove s prirodzenými dôsledkami konania členov bez potreby trestov",
+                "form": ["odporúčanie tímu", "skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Pozná výhody a nevýhody používania odmien a trestov a dokáže ich primerane využiť v praxi",
+                "form": ["odporúčanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Fungovanie tímu",
+            "duration": 60,
+            "learning_goals": [
+              "Rozdiel medzi tímom a skupinou",
+              "Roly v tíme",
+              "Zásady spolupráce v tíme"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže vysvetliť základy tímovej spolupráce (rozdiel medzi skupinou a tímom, roly v tíme, zásady spolupráce)",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Dokáže efektívne pracovať a budovať fungujúce vzťahy v tíme oddielovej rady alebo v inom tíme",
+                "form": ["odporúčanie tímu"]
+              },
+              {
+                "competency": "Dokáže viesť tím pri tvorbe krátkodobého podujatia (napr. trojdňovka)",
+                "form": ["líderská činnosť"]
+              }
+            ]
+        },
+        {
+            "topic": "Hodnotenie a reflexia",
+            "duration": 60,
+            "learning_goals": [
+              "Hodnotenie a reflexia ako nástroje na zlepšovanie kvality",
+              "Využitie hodnotenia a reflexie v oddielovom živote",
+              "Monitoring, evaluácia (inf. znalosť)"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže vybrať vhodnú formu a viesť hodnotenie akcie a reflexiu aktivity",
+                "form": ["líderská činnosť"]
+              },
+              {
+                "competency": "Dokáže pracovať s nástrojom Hodnotenie kvality oddielu",
+                "form": ["odporúčanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Budovanie oddielovej identity",
+            "duration": 45,
+            "learning_goals": [
+              "Význam oddielovej identity",
+              "Zložky oddielovej identity (názov, znak, tradície a rituály, insígnie) a ich využívanie v praxi",
+              "Budovanie a udržiavanie oddielovej identity"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže primerane budovať oddielovú identitu (oddielové symboly, tradície, rituály,...)",
+                "form": ["skúšky - teoretická otázka", "odporúčanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Vývinová psychológia",
+            "duration": 60,
+            "learning_goals": [
+              "Špecifiká vekových kategórií (vĺčatá, skauti, rangeri)",
+              "Zmena spôsobu vedenia v závislosti od situácie, pohlavia a od vekovej skupiny, ktorú vedieme (situačné vedenie)",
+              "Možnosti kladenia záťaže podľa vekových kategórií (fyzickej, psychickej, dostatok spánku, oddych)",
+              "Prispôsobenie programu danej vekovej kategórii a záujmy dnešných detí",
+              "Formy prístupu k deťom v rôznom veku a rozoznanie neštandardného správania a postupy ako to vyriešiť"
+            ],
+            "evaluation": [
+              {
+                "competency": "Pozná charakteristiku jednotlivých vekových kategórií a ich vývinové špecifiká. Tieto poznatky dokáže využiť v praxi",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Pozná potreby a záujmy dnešných detí v spoločnosti",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Dokáže spozorovať, že člen sa správa neštandardne. Vie, ako má v takomto prípade postupovať",
+                "form": ["skúšky - modelová situácia"]
+              }
+            ]
+          },
+          {
+            "topic": "Riziká doby",
+            "duration": 45,
+            "learning_goals": [
+              "Význam témy riziká doby v súčasnosti a potreba o nej komunikovať",
+              "Ako pomôcť tým, ktorí s nimi majú problém a prevencia",
+              "Vybraná téma z oblasti Riziká doby (závislosti, nenávistné prejavy...)"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže vhodným spôsobom pracovať s témou riziká doby v oddiele a pomôcť členom vyrovnávať sa s týmito rizikami",
+                "form": ["odporúčanie tímu", "skúšky - modelová situácia"]
+              }
+            ]
+          },
+          {
+            "topic": "Oddielová administratíva a financie",
+            "duration": 60,
+            "learning_goals": [
+              "Skautský informačný systém Tee-pee (riadenie oddielovej jednotky a potrebné úkony v nej, zoznam členov a ich profily, základy GDPR)",
+              "Spravovanie akcie v Tee-pee (vytvorenie udalosti, prezenčná listina, vykázanie podujatia)",
+              "Nový člen a registrácia (prihláška na skauting, registrácia v Tee-pee)",
+              "Vedenie pokladne, pokladničné doklady",
+              "Cestovný výkaz",
+              "Hodnotenie kvality",
+              "Význam jednotlivých administratívnych úkonov"
+            ],
+            "evaluation": [
+              {
+                "competency": "V spolupráci s vodcom dokáže zaistiť administratívnu agendu oddielu (prihláška na skauting, registrácia oddielu, prezenčná listina, záverečná správa, pokladničné doklady) s prihliadnutím na ochranu osobných údajov",
+                "form": ["odporúčanie tímu"]
+              },
+              {
+                "competency": "Vie používať skautský informačný systém Tee-pee na úrovni oddielu",
+                "form": ["odporúčanie tímu"]
+              },
+              {
+                "competency": "Dokáže pracovať s nástrojom Hodnotenie kvality oddielu",
+                "form": ["odporúčanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Základy dramaturgie programu",
+            "duration": 150,
+            "learning_goals": [
+              "Veľká a malá dramaturgia – rozdelenie (v rámci malej dramaturgie aj spôsoby rozdeľovania hráčov, ich výhody a nevýhody, prostredie a jeho význam)",
+              "Základy tvorby programu a dramaturgie (dramaturgické zásady)",
+              "Leitmotív, symbolický rámec, pulzný princíp, krivky výkonnosti",
+              "Maticový a bodový scenár trojdňového podujatia",
+              "Tvorba aktivity (typológia aktivít, hodnotenie)",
+              "Zdroje a námety na programovú činnosť"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže vhodne vybrať alebo vytvoriť a zorganizovať aktivitu (zložitejšia, etapová, štruktúrovaná...) s ohľadom na cieľovú skupinu a jej veľkosť.",
+                "form": ["skúšky - teoretická otázka", "líderská činnosť"]
+              },
+              {
+                "competency": "Pri tvorbe oddielového programu vie využiť libreto, leitmotív, symbolický rámec a dbá na pulzný princíp, krivky výkonnosti a ostatné dramaturgické zásady.",
+                "form": ["skúšky - teoretická otázka", "líderská činnosť"]
+              },
+              {
+                "competency": "Dokáže zapojiť do programu všetky oblasti rozvoja.",
+                "form": ["líderská činnosť"]
+              }
+            ]
+          },
+          {
+            "topic": "Celoročná činnosť oddielu a oddielové akcie",
+            "duration": 90,
+            "learning_goals": [
+              "Rôznorodosť programu počas roka",
+              "Využitie ročných období v programe",
+              "Plánovanie akcie, postup plánovania, ciele akcie",
+              "Úskalia realizácie akcie, predstava vs. realita, hodnotenie akcie s účastníkmi a s realizačným tímom",
+              "Hodnotenie splnenia cieľa akcie",
+              "Výlety a výpravy v oddielovom programe",
+              "Kalendár akcií; tradičné akcie vs. nové akcie, primeraný počet akcií"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže nadobudnuté vedomosti aplikovať do praxe pri tvorbe, realizácii a vyhodnotení trojdňového podujatia pre deti a mládež.",
+                "form": ["líderská činnosť"]
+              },
+              {
+                "competency": "Vie zorganizovať výlet a výpravu so zreteľom na účastníkov (naplánovať trasu, program prispôsobiť počasiu, pripraviť potrebnú výbavu...).",
+                "form": ["líderská činnosť"]
+              },
+              {
+                "competency": "Dokáže naplánovať ciele oddielu na dlhšie obdobie podľa možnosti a schopnosti členov. Dokáže zostaviť kalendár akcií a vhodným spôsobom ho poskytnúť členom oddielu, rodičom...",
+                "form": ["líderská činnosť"]
+              }
+            ]
+          },
+          {
+            "topic": "Určovanie cieľov a ich vyhodnotenie",
+            "duration": 60,
+            "learning_goals": [
+              "Prostriedok verzus cieľ",
+              "Určovanie SMART cieľov",
+              "Základy projektového manažmentu (problém – cieľ - aktivity) = určenie a definovanie problému - nastavenie cieľa, ktorý bude riešiť problém, zvolenie vhodnej aktivity, ktorou daný cieľ dosiahnem",
+              "Cieľová skupina (jej definovanie a význam pri určovaní cieľov)",
+              "Sledovanie cieľov vo výchove",
+              "Motivácia na dosiahnutie cieľa"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže formulovať krátkodobé ciele, nastaviť ich úroveň vzhľadom na cieľovú skupinu a relevantne zhodnotiť ich napĺňanie.",
+                "form": ["skúšky - teoretická otázka", "líderská činnosť"]
+              }
+            ]
+          },
+          {
+            "topic": "Bezpečnosť a hygiena",
+            "duration": 45,
+            "learning_goals": [
+              "Miera prípustného rizika",
+              "Pravidlá bezpečnosti (v klubovni, v telocvični, v teréne, na akciách, pri kúpaní a cestovaní; práca s ohňom)",
+              "Dodržiavanie hygienických zásad na akciách",
+              "Záťažové normy",
+              "Poistenie na výlet do hôr",
+              "Lekárnička na akcii"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže vhodným a zrozumiteľným spôsobom komunikovať členom oddielu pravidlá bezpečnosti a hygieny, ktorými sa sám riadi.",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Dokáže zvážiť potenciálne riziká a snaží sa im predchádzať.",
+                "form": ["skúšky - modelová situácia"]
+              }
+            ]
+          },
+          {
+            "topic": "Krízové situácie",
+            "duration": 45,
+            "learning_goals": [
+              "Odhad možného rizika",
+              "Rozhodovanie, zachovanie pokoja",
+              "Riešenie modelových krízových situácií"
+            ],
+            "evaluation": [
+              {
+                "competency": "Pozná postup, ako sa zachovať v prípade krízových situácií v oddiele a aké odporúčané postupy sú v Slovenskom skautingu.",
+                "form": ["skúšky - teoretická otázka", "modelová situácia"]
+              }
+            ]
+          },
+          {
+            "topic": "Piliere skautingu",
+            "duration": 75,
+            "learning_goals": [
+              "Predstavenie pilierov skautingu na príkladoch a ich význam",
+              "Poslanie",
+              "Princípy",
+              "Výchovná metóda"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže pomenovať a vysvetliť poslanie, princípy, časti výchovnej metódy skautingu.",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Dokáže zapracovať sľub a zákon do činnosti oddielu.",
+                "form": ["odporúčanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Organizačná štruktúra a základné dokumenty SLSK",
+            "duration": 45,
+            "learning_goals": [
+              "Náčelníctvo, Ústredie Slovenského skautingu a nižšie organizačné zložky (inf. znalosť)",
+              "Stanovy SLSK a Organizačný poriadok (význam, rozdiel a ich dostupnosť pre členov SLSK)",
+              "Nové zmeny na národnej a regionálnej úrovni"
+            ],
+            "evaluation": [
+              {
+                "competency": "Pozná organizačnú štruktúru Slovenského skautingu na miestnej, regionálnej a národnej úrovni a čo jednotlivé zložky zastrešujú a poskytujú.",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Má základné vedomosti o Stanovách a Organizačnom poriadku Slovenského skautingu a vie, kde sú dostupné.",
+                "form": ["skúšky - teoretická otázka"]
+              }
+            ]
+          },
+          {
+            "topic": "Medzinárodný rozmer skautingu",
+            "duration": 45,
+            "learning_goals": [
+              "Skauting ako celosvetové bratské a sesterské hnutie",
+              "Medzinárodná dimenzia v programe (výhody, jej význam v našej činnosti a v organizácii)",
+              "Zahraničná ponuka (centrá, akcie: jamboree WSJ, CEJ a i., Intercamp, kurzy, odborky)",
+              "Zahraniční komisári a spojky"
+            ],
+            "evaluation": [
+              {
+                "competency": "Uvedomuje si skauting ako celosvetové hnutie.",
+                "form": ["odporúčanie tímu"]
+              },
+              {
+                "competency": "Má prehľad o zahraničnej ponuke a na jej základe dokáže priniesť medzinárodnú dimenziu do programu.",
+                "form": ["odporúčanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Duchovno v skautingu",
+            "duration": 60,
+            "learning_goals": [
+              "Miesto sľubu a zákona v duchovnom rozvoji",
+              "Formy duchovného programu v oddielovom živote a jeho význam",
+              "Tvorba duchovnej aktivity pre oddiel, psychická bezpečnosť a tolerancia pri tvorbe duchovného programu",
+              "Zdroje na kvalitné a overené duchovné aktivity/napredovanie (výchovný program, knihy, weby, články...)"
+            ],
+            "evaluation": [
+              {
+                "competency": "Rozumie významu duchovna v skautingu a vie, prečo je jeho rozvoj dôležitý.",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Dokáže pre oddiel pripraviť a zrealizovať aktivitu zameranú na duchovný rozvoj s ohľadom na psychickú bezpečnosť účastníkov.",
+                "form": ["odporúčanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Výchovný program",
+            "duration": 75,
+            "learning_goals": [
+              "Základ výchovného programu – aktívny občan a všestranne rozvinutá osobnosť",
+              "6 oblastí rozvoja – ich význam a miesto v oddielovom živote",
+              "Výchovný program = programová ponuka a samostatná činnosť družín/oddielov",
+              "Programová ponuka vĺčat, skautov a rangerov (stupne napredovania, odborky, výzvy, voľné programové moduly, najvyššie programové ocenenia) a jej význam v napĺňaní poslania SLSK",
+              "Základy práce s programovou ponukou – ako uviesť prvok, sledovať ho počas plnenia a vyhodnotiť ho/osláviť na záver",
+              "Individuálne osobné napredovanie a jeho plánovanie",
+              "Práca s heslami vekových kategórií v rámci výchovy",
+              "Medzinárodná cena vojvodu z Edinburghu a špecifiká vodnoskautského programu pre vĺčatá, skautov a rangerov"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže prispôsobiť prvky programu individualite členov (Nováčik a stupne napredovania, odborky, výzvy, VPM – pre jednotlivé vekové kategórie) a zároveň pozná svoje právomoci pri zmene výchovného programu.",
+                "form": ["skúšky - modelová situácia"]
+              },
+              {
+                "competency": "Rozumie výchovnému programu a jeho prepojenosti so 6 oblasťami rozvoja.",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Dokáže uviesť programový prvok do oddielového/družinového života, sledovať jeho plnenie a vyhodnotiť/osláviť to na záver. Dokáže radcom pomôcť s implementáciou programových prvkov.",
+                "form": ["skúšky - teoretická otázka"]
+              }
+            ]
+          },
+          {
+            "topic": "Vzdelávací systém",
+            "duration": 60,
+            "learning_goals": [
+              "Vzdelávací systém (stupne, vzdelávacie moduly a voľné vzdelávacie kurzy) – rozdiely, základná charakteristika a význam vzdelávania vo všeobecnosti",
+              "Hodnosti (radca, líder, vodca, inštruktor), ich insígnie a spôsob získania hodnosti",
+              "Rozdiel medzi vedúcim a vodcom",
+              "Skúšky v systéme RpV – radcovské skúšky (náplň skúšok RK; základy skúšania)",
+              "Vzdelávacia ponuka SLSK a iné možnosti vzdelávania pre lídrov a členov oddielu (podľa veku, zamerania činnosti, potreby)"
+            ],
+            "evaluation": [
+              {
+                "competency": "Dokáže odporučiť členom oddielu vhodný spôsob vzdelávania (stupeň, modul, kurz...) s ohľadom na ich skúsenosti, možnosti a potreby oddielu.",
+                "form": ["odporúčanie tímu"]
+              },
+              {
+                "competency": "Pozná vzdelávací systém SLSK.",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Pozná princíp a priebeh radcovských skúšok a dokáže zastávať pozíciu člena skúšobnej komisie.",
+                "form": ["skúšky - modelová situácia"]
+              }
+            ]
+          },
+          {
+            "topic": "Globálne vzdelávanie",
+            "duration": 60,
+            "learning_goals": [
+              "Význam globálneho vzdelávania (cieľ GV, prepojenie globálneho vzdelávania so skautingom a bežným životom)",
+              "Tematické okruhy globálneho vzdelávania a ich vzájomné prepojenia (ciele udržateľného rozvoja, globalizácia, aktívne občanstvo, kritické myslenie...)",
+              "Zapojenie globálneho vzdelávania do programu (príklady aktivít, zdroje inšpirácií z národnej a medzinárodnej úrovne)"
+            ],
+            "evaluation": [
+              {
+                "competency": "Rozumie dôležitosti vzdelávania o globálnych témach a miesta skautov v ňom.",
+                "form": ["odporúcanie tímu"]
+              },
+              {
+                "competency": "Vie, kde hľadať inšpirácie na aktivity zamerané na globálne témy, ktoré môže zapojiť do skautskej činnosti.",
+                "form": ["odporúcanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Rovnošata a vystupovanie skauta",
+            "duration": 30,
+            "learning_goals": [
+              "Zásady nosenia rovnošaty a jej význam v skautingu",
+              "Skautské šatky a spôsob ich nosenia",
+              "Vhodné vystupovanie a vonkajšia prezentácia skauta (nevhodné oblečenie a nevhodná kombinácia s rovnošatou)"
+            ],
+            "evaluation": [
+              {
+                "competency": "Riadi sa zásadami vystupovania skauta a prezentácie na verejnosti.",
+                "form": ["skúšky - modelová situácia"]
+              },
+              {
+                "competency": "Pozná skautskú rovnošatu.",
+                "form": ["odporúcanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Symbolický rámec a etapové hry",
+            "duration": 60,
+            "learning_goals": [
+              "Význam, typy a formy symbolického rámca pre vekové kategórie, riziká náročných symbolických rámcov",
+              "Etapová hra ako prostriedok na dosiahnutie cieľa, nie cieľ samotný",
+              "Tvorba etapovej hry (zásady tvorby, zapracovanie symbolického rámca)"
+            ],
+            "evaluation": [
+              {
+                "competency": "Vie popísať význam symbolického rámca pre jednotlivé vekové kategórie.",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Dokáže vybrať pre cieľovú skupinu vhodný symbolický rámec.",
+                "form": ["odporúcanie tímu", "líderská činnosť"]
+              },
+              {
+                "competency": "Dokáže vytvoriť etapovú hru pre oddiel, v ktorom pôsobí.",
+                "form": ["líderská činnosť"]
+              }
+            ]
+          },
+          {
+            "topic": "Život v prírode - využitie prírody vo výchove/skautingu",
+            "duration": 45,
+            "learning_goals": [
+              "Skauting a príroda (vzťah, čím je príroda pre skautov...)",
+              "Príklady na aktivity v prírode",
+              "Využitie prírody v oddielovom programe a v procese výchovy v skautingu"
+            ],
+            "evaluation": [
+              {
+                "competency": "Rozumie významu života v prírode pre oddiel a jednotlivca v skautingu.",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Dokáže pripraviť program pre oddiel, v ktorom využije prírodu.",
+                "form": ["odporúčanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Učenie sa činnosťou",
+            "duration": 60,
+            "learning_goals": [
+              "Zážitková pedagogika (cieľ, výhody, nevýhody)",
+              "Učenie sa činnosťou v programe a napredovaní členov",
+              "Kolbov cyklus",
+              "Zóna komfortu – zóna ohrozenia, psychická a fyzická bezpečnosť",
+              "Aktivity s prvkami zážitkovej pedagogiky (spôsob výberu a zaradenia aktivity do programu, druhy, realizácia, vyhodnotenie aktivít)",
+              "Skautská prax"
+            ],
+            "evaluation": [
+              {
+                "competency": "Vie, ako do programu pre družinu a oddiel zapojiť učenie sa činnosťou.",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Pozná základné pravidlá zážitkovej pedagogiky (Kolbov cyklus učenia, zóny komfortu a ohrozenia) a dokáže ich aplikovať do praxe.",
+                "form": ["skúšky - teoretická otázka", "odporúčanie tímu"]
+              },
+              {
+                "competency": "Ovláda základné zručnosti skautskej praxe a dokáže ich naučiť členov oddielu.",
+                "form": ["odporúčanie tímu"]
+              }
+            ]
+          },
+          {
+            "topic": "Safe from Harm - Bezpečné prostredie na skautingu",
+            "duration": 60,
+            "learning_goals": [
+              "Čo je Safe from Harm a Bezpečný skauting",
+              "Šikana a iné formy násilia",
+              "Metódy ako vytvárať bezpečné prostredie v oddiely",
+              "Čo je to grooming a ako ho rozpoznať",
+              "Ako sa chrániť, ako povedať nie",
+              "Ako vhodne vypočuť dieťa/zverujúcu sa osobu",
+              "Etický kódex"
+            ],
+            "evaluation": [
+              {
+                "competency": "Vie aké sú znaky groomingu a iné formy násilia.",
+                "form": ["skúšky - teoretická otázka"]
+              },
+              {
+                "competency": "Dokáže vypočuť dieťa alebo osobu, ktoré sa chce zveriť.",
+                "form": ["skúšky - modelové situácie"]
+              },
+              {
+                "competency": "Pozná postupy ako vytvárať bezpečné prostredie v oddiely z pohľadu člena skupiny.",
+                "form": ["skúšky - teoretická otázka"]
+              }
+            ]
+          }
+
+    ]
+    }
+  }
+  

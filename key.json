@@ -1,0 +1,15 @@
+{
+    "Keys for conversion to natural language": 
+        {
+            "competencies" : "kompetencie",
+            "cinnost" :"činnosť",
+            "learning_goals": "obsahové náplne",
+            "evaluation": ["overenie", "forma overenia"],
+            "form": ["overenie", "forma overenia"],
+            "lectures": ["prednášky", "okruhy"],
+            "topic": ["názov prednášky", "okruhy"],
+            "name": "názov kompetencie",
+            "duration": "časová dotácia"
+        }
+    
+}
