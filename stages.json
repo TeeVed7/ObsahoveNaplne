@@ -1,11 +1,19 @@
 {
-  "stages": "Stage 2",
-  "age_group": "16-18 years",
-  "competencies": ["Critical Thinking", "Problem-Solving", "Independent Research"],
-  "learning_goals": [
-    "Develop decision-making skills",
-    "Improve time management",
-    "Engage in self-directed learning"
-  ],
-  "challenges": ["Lack of focus", "Time constraints", "Need for real-world applications"]
-}
+  "stages": [
+    {
+      "stage": "Stage 1",
+      "title": "01_RK",
+      
+    }
+  ]
+  
+  
+    "age_group": "16-18 years",
+    "competencies": ["Critical Thinking", "Problem-Solving", "Independent Research"],
+    "learning_goals": [
+      "Develop decision-making skills",
+      "Improve time management",
+      "Engage in self-directed learning"
+    ],
+    "challenges": ["Lack of focus", "Time constraints", "Need for real-world applications"]
+  }
