@@ -1,1 +1,58 @@
+{
+    "Vodcovská škola": {
+    "cinnost": [
+        {
+        "prax": [
+            { "competency": "- pripravil ročný plán rozvoja oddielu a oddielovej rady (pripúšťa sa spolupráca s oddielovým vodcom, skúsenejším činovníkom);" },
+            { "competency": "- zrealizoval pre oddiel, radcov alebo pre oddielovú radu i. trojdňovú oddielovú akciu s konkrétnym cieľom, maticovým scenárom a bodovým scenárom (môže byť aj časť tábora) alebo ii. dve samostatné akcie s dĺžkou trvania min. po 8 hodinách;" },
+            { "competency": "- zrealizoval vybraný vzdelávací modul pre radcov/činovníkov/iných záujemcov;" },
+            { "competency": "- viedol 2 stretnutia oddielovej/zborovej rady, prvé plánovacie na začiatku, druhé hodnotiace počas svojej vodcovskej praxe;" },
+            { "competency": "- zdokumentoval prácu s výchovným systémom SLSK (stupne napredovania, odborky, výzvy...);" },
+            { "competency": "- vypracoval vyhodnotenie vodcovskej praxe, v ktorom zhodnotil jej jednotlivé časti." }
+        ]
+        },
+        {
+        "projekt": [
+            { "competency": "- naplánoval a zrealizoval vodcovský projekt s konkrétnym cieľom a stavom projektu k predpokladanému termínu skúšok." },
+            { "competency": "- viedol min. 2 stretnutia oddielovej/zborovej rady alebo projektového tímu, prvú na začiatku projektu, druhú hodnotiacu počas projektu." },
+            { "competency": "- sa venoval projektu aspoň 50 hodín dobrovoľníckej činnosti (všetky fázy projektu)." },
+            { "competency": "- vypracoval vyhodnotenie vodcovského projektu, v ktorom zhodnotil jednotlivé časti projektu." }
+        ]
+        }
+        ],
+      "general_competencies": [
+            {
+              "name": "Stotožňuje sa s princípmi, poslaním a výchovnou metódou a šíri ich vo svojom okolí.",
+              "evaluation": "odporúčanie tímu"
+            },
+            {
+              "name": "Správa sa priateľsky a empaticky.",
+              "evaluation": "odporúčanie tímu"
+            },
+            {
+              "name": "Dokáže sa zapojiť do aktivity a chápe jej význam a dôležitosť.",
+              "evaluation": "odporúčanie tímu"
+            },
+            {
+              "name": "Vie aplikovať získané vedomosti a zručnosti zo skautskej činnosti v každodennom živote a naopak.",
+              "evaluation": "odporúčanie tímu"
+            },
+            {
+              "name": "Dokáže budovať fungujúce vzťahy v oddiele, zbore a oblasti.",
+              "evaluation": "odporúčanie tímu"
+            },
+            {
+              "name": "Rešpektuje individualitu iných ľudí.",
+              "evaluation": "skúšky - modelovka"
+            },
+            {
+              "name": "Ovláda prvú pomoc min. v rozsahu 8-hodinového kurzu prvej pomoci.",
+              "evaluation": "certifikát"
+            }
+          ],
+      "lectures": [
 
+      ]
+    }
+  }
+  
