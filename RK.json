@@ -1,8 +1,13 @@
 {
   "Radcovský kurz": {
+    "cinnost": [
+      { "competency": "- 3 družinovky so stanoveným cieľom"},
+      { "competency": "- naplánovanie spolu so skúsenejším členom výlet/výpravu s cieľom (minimálne 3 hodiny; na splnenie podmienky akcia nemusí byť zrealizovaná);"},
+      { "competency": "- plán činnosti družiny s cieľom na 2 mesiace."}
+    ],
     "general_competencies": [
         {
-          "name": "Súhlasí s myšlienkovými základmi skautingu",
+          "name": "Stotožňuje sa s princípmi, poslaním a výchovnou metódou."	,
           "evaluation": "odporúčanie tímu"
         },
         {
